@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: white;
+}
+
+.frame {  
+  background-color: #ADD8E6;
+  margin: 30px 20px 10px 10px;
+  padding: 0 7px;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  padding: 32px;
+  background-color: #ADD8E6;
+  color: #36454F;
+  margin-top: 25px;
+  border-bottom: 0;
+}
+
+.img-div {
+  width: 100%;
+  border: 30px solid white;
+  margin: 0 auto;
+  background-color: white;
+  }
+
+  img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+
+.caption {
+  width: 100%;
+  color: #36454F;
+  background-color: white; 
+  text-align: center;
+  border-top: 20px solid white;
+  border-bottom: solid white;
+}
+
+  .bold {
+    font-weight: 800;
+  }
+
+.life {
+    text-align: center;
+}
+
+.tribute-info {
+  color: #36454F;
+  padding: 50px;
+  background-color: #ADD8E6;
+  margin: 0 auto;
+  max-width: 700px;
+  display: block;
+}
+
+li {
+  margin: 20px;
+}
+
+.quote {
+  margin-top: 80px;
+}
+
+.quote, .signature{
+  margin-left: 50px;
+  margin-rigth: 50px;
+}
+
+.tribute-link {
+  color: #36454F;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 18;
+}
