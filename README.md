@@ -1,2 +1,2 @@
-# Tribute Project - Project 2
-[Tribute Project](https://yeasminfarzana.github.io/tribute-page/) - View on Github
+# Tribute Page - Project 2
+[Tribute Page](https://yeasminfarzana.github.io/tribute-page/) - View on Github
